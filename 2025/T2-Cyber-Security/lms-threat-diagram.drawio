@@ -408,6 +408,12 @@
             <mxPoint x="515" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Wymofx9gCMPoh8lamPGF-150" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Wymofx9gCMPoh8lamPGF-147">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="874" as="sourcePoint" />
+            <mxPoint x="540" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
